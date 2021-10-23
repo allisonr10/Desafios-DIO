@@ -1,4 +1,4 @@
-# Desafios-DIO - Desafios Iniciais JavaScript
+# Desafios-DIO - Desafios Iniciais JavaScript - Desafio 1
  Desafios feitos no bootcamp da DIO
  
  1° Desafio - 
